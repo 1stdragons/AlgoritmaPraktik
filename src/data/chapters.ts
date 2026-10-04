@@ -1,0 +1,17 @@
+﻿export const chapters = [
+  { id: 1, title: "Pengenalan Algoritma", desc: "Konsep dasar, histori, dan peran algoritma", concepts: ["Definisi","Karakteristik","Notasi"] },
+  { id: 2, title: "Tipe Data & Variabel", desc: "Memahami tipe data dan deklarasi variabel", concepts: ["Integer","String","Boolean","Array"] },
+  { id: 3, title: "Struktur Sekuensial", desc: "Alur eksekusi berurutan", concepts: ["Input","Proses","Output"] },
+  { id: 4, title: "Percabangan IF", desc: "Logika percabangan kondisi", concepts: ["IF","IF-ELSE","Nested IF"] },
+  { id: 5, title: "Percabangan Switch", desc: "Alternatif percabangan banyak kondisi", concepts: ["Switch Case","Break","Default"] },
+  { id: 6, title: "Perulangan FOR", desc: "Looping dengan jumlah iterasi pasti", concepts: ["For Loop","Increment","Nested For"] },
+  { id: 7, title: "Perulangan WHILE", desc: "Looping berbasis kondisi", concepts: ["While","Do-While","Infinite Loop"] },
+  { id: 8, title: "Array 1 Dimensi", desc: "Kumpulan data sejenis", concepts: ["Deklarasi","Indexing","Traversing"] },
+  { id: 9, title: "Array 2 Dimensi", desc: "Matriks dan tabel", concepts: ["Matrix","Baris-Kolom","Operasi"] },
+  { id: 10, title: "Fungsi & Prosedur", desc: "Modularisasi program", concepts: ["Function","Parameter","Return","Scope"] },
+  { id: 11, title: "Rekursif", desc: "Fungsi memanggil dirinya sendiri", concepts: ["Base Case","Recursive Call","Stack"] },
+  { id: 12, title: "Searching", desc: "Pencarian data", concepts: ["Linear Search","Binary Search"] },
+  { id: 13, title: "Sorting", desc: "Pengurutan data", concepts: ["Bubble Sort","Selection Sort","Insertion Sort"] },
+  { id: 14, title: "Kompleksitas", desc: "Analisis Big-O", concepts: ["Time Complexity","Space Complexity","Big O Notation"] },
+  { id: 15, title: "Studi Kasus Final", desc: "Proyek akhir gabungan semua konsep", concepts: ["Analisis","Desain","Implementasi","Testing"] },
+];
