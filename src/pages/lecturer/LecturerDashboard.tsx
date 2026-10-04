@@ -148,7 +148,7 @@ export function LecturerDashboard(){
           <div className='bg-white border rounded-[18px] p-4 shadow-sm'>
             <div className='flex justify-between'><span className='text-[11px]'>COMPLETION RATE</span><span>$</span></div>
             <div className='font-bold mt-2'>85% ↑ 12%</div>
-            <div className='text-[11px] text-gray-400'>Siswa selesaikan >10 BAB</div>
+            <div className='text-[11px] text-gray-400'>Siswa selesaikan {'>'}10 BAB</div>
           </div>
         </div>
 
